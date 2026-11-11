@@ -1,0 +1,43 @@
+[
+  {
+    "id": "enq_1794390381736_agp5l",
+    "referenceNumber": "ME-RFQ-2026-0002",
+    "name": "Arjun Mehta",
+    "companyName": "L&T Heavy Engineering",
+    "email": "arjun.mehta@example.com",
+    "phone": "+91 98230 11223",
+    "country": "India",
+    "productCategory": "stud-bolts",
+    "material": "Alloy Steel",
+    "grade": "ASTM A193 Grade B7",
+    "requiredQuantity": 2500,
+    "requiredDimensions": "M24 x 300mm",
+    "applicableStandard": "ASTM A193",
+    "message": "2 heavy hex nuts A194 2H per stud, EN 10204 3.1 MTC required.",
+    "drawingAttachment": null,
+    "status": "New",
+    "notes": "",
+    "createdAt": "2026-11-11T09:46:21.736Z"
+  },
+  {
+    "id": "enq_1794388498362_h64op",
+    "referenceNumber": "ME-RFQ-2026-0001",
+    "name": "Rajesh Sharma",
+    "companyName": "Adani Total Gas Limited",
+    "email": "procurement@adanigas.com",
+    "phone": "+91 98220 12345",
+    "country": "India",
+    "productCategory": "Stud Bolts",
+    "material": "Alloy Steel",
+    "grade": "ASTM A193 B7",
+    "requiredQuantity": 500,
+    "requiredDimensions": "M30 x 450 mm",
+    "applicableStandard": "ASTM A193",
+    "message": "Need EN 10204 Type 3.1 MTC with Charpy impact test and PTFE coating.",
+    "drawingAttachment": null,
+    "status": "Quoted",
+    "notes": "",
+    "createdAt": "2026-11-11T09:14:58.362Z",
+    "updatedAt": "2026-11-11T09:15:30.591Z"
+  }
+]

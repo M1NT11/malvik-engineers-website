@@ -1,0 +1,8 @@
+{
+  "name": "Malvik Engineers - Industrial Fastener Manufacturer",
+  "description": "Premier manufacturer of precision industrial fasteners, stud bolts, heavy hex bolts, and customized engineering components based in Pune, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
